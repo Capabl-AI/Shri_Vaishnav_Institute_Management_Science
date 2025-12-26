@@ -1,4 +1,4 @@
-# CEC
+# SVIMS
 Project Submission Repository
 
 ## Video Link
